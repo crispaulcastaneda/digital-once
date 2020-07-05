@@ -19,6 +19,6 @@ Will contribute more to the community and help other developer with themes.
 ### Credits to
 
 [Favicon](https://www.flaticon.com/)
-[cdnjs](https://cdnjs.com/)
-[Fontawesome](https://fontawesome.com)
-[Bootstrap](https://getbootstrap.com)
+[CDNJS](https://cdnjs.com/)
+[Font Awesome](https://fontawesome.com)
+[Bootstrap 4.2ver](https://getbootstrap.com)
