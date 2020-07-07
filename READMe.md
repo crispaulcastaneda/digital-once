@@ -7,7 +7,7 @@ Evolving uses of technology, markups and ideas to create a functional and creati
 
 ### Technology and Markups
 ```
-HTML, CSS, Bootstrap, JavaScript
+HTML, CSS, Bootstrap, JavaScript, SASS
 ```
 
 ### Work with me
