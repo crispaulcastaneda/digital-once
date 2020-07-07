@@ -1,6 +1,6 @@
 {
   "name": "bootsrap-webstatic",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A digital website for my activity and project soon",
   "main": "index.js",
   "scripts": {
