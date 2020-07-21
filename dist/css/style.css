@@ -159,34 +159,6 @@ html body a:hover {
   font-size: 0.9rem;
 }
 
-/* SOCIAL MEDIA */
-#social-media {
-  background: #111;
-  padding: 100px 0;
-  color: #eee;
-}
-#social-media .social-title {
-  margin-bottom: 60px;
-}
-#social-media .social-title::before {
-  content: "";
-  background: #eee;
-  height: 5px;
-  width: 200px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  transform: translateY(63px);
-}
-#social-media .social-icons img {
-  width: 60px;
-  margin: 15px;
-  transition: 0.5s;
-}
-#social-media .social-icons a:hover img {
-  transform: translateY(-10px);
-}
-
 /* FOOTER */
 #footer {
   background-image: linear-gradient(to right, #c0c0c0, #e2d8d8);
@@ -223,6 +195,31 @@ html body a:hover {
   border: none;
   border-radius: 5px;
   margin-top: 30px;
+}
+#footer .footer-box .soc {
+  margin: 10px 20px 0 0;
+  font-size: 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: ease-in 0.2s;
+}
+#footer .fb:hover {
+  color: #3b5998;
+  transition: ease-out 0.3s;
+}
+#footer .tw:hover {
+  color: #00acee;
+  transition: ease-out 0.3s;
+}
+#footer .ig:hover {
+  color: #fb3958;
+  transition: ease-out 0.3s;
+}
+#footer .footer-box .soc-icons {
+  margin-top: 15px;
+}
+#footer input[type=email] {
+  border-radius: 25px !important;
 }
 #footer hr {
   background-color: #b8b8b8;
